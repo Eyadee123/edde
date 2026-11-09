@@ -1,0 +1,6 @@
+{
+  "name": "Eyad Drive - Secure Cloud Storage & AI Workspace",
+  "description": "Secure Eyad Drive by Eyad Eliwa with cross-device sync, real-time upload progress, private/public sharing, multi-tier storage plans, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
